@@ -1,0 +1,110 @@
+{
+	"manhole": {
+		"name": "manhole-cover",
+		"manhole": true,
+		"background": true,
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"size": {
+			"width": 184,
+			"height": 62
+		},
+		"scale": {
+			"percent": 100
+		},
+		"zindex": {
+			"zindex": 1
+		},
+		"image": {
+			"name": "manhole-cover"
+		},
+		"timers": {
+			"steam1": {
+				"running": true,
+				"time": 0,
+				"max": 12000,
+				"script": "./scripts/manhole-steam1"
+			},
+			"steam2": {
+				"running": true,
+				"time": 0,
+				"max": 15000,
+				"script": "./scripts/manhole-steam2"
+			}
+		}
+	},
+	"manhole-steam1": {
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"size": {
+			"width": 96,
+			"height": 152
+		},
+		"zindex":{
+		"zindex": 2
+	},
+		"animation": {
+			"time": 0,
+			"frame": 0,
+			"loop": true,
+			"speed": 1,
+			"name": "manhole-steam-f8"
+		},
+		"timers": {
+			"destroy": {
+				"running": true,
+				"time": 0,
+				"max": 1600,
+				"script": "./scripts/destroy"
+			}
+		}
+	},
+	"manhole-steam2": {
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"size": {
+			"width": 39,
+			"height": 112
+		},
+		"zindex":{
+		"zindex": 2
+	},
+		"animation": {
+			"time": 0,
+			"frame": 0,
+			"loop": true,
+			"speed": 1,
+			"name": "manhole-steam-2-f10"
+		},
+		"timers": {
+			"destroy": {
+				"running": true,
+				"time": 0,
+				"max": 2000,
+				"script": "./scripts/destroy"
+			}
+		}
+	},
+	"bush":{
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"size": {
+			"width": 427,
+			"height": 333
+		},
+		"scale": {
+			"percent": 60
+		},
+		"image": {
+			"name": "bush"
+		}
+	}
+}

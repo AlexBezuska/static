@@ -1,0 +1,91 @@
+{
+	"main": [{
+		"id": 0,
+		"name": "camera",
+		"camera": true,
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"matchCanvasSize": true,
+		"matchCenter": {
+			"id": 1
+		},
+		"follow": {
+			"id": 2,
+			"distance": 100
+		},
+		"match": {
+			"id": 1
+		}
+	}, {
+		"id": 1,
+		"name": "viewport",
+		"viewPort": true,
+		"bg-color": "#0d2342",
+		"position": {
+			"x": 0,
+			"y": 0
+		},
+		"size": {
+			"width": 1920,
+			"height": 1080
+		}
+
+	}, {
+		"id": 2,
+		"name": "player",
+		"strokeStyle": "red",
+		"position": {
+			"x": 1800,
+			"y": 600
+		},
+		"size": {
+			"width": 120,
+			"height": 265
+		},
+		"velocity": {
+			"x": 0,
+			"y": 0
+		},
+		"playerController2d": {
+			"up": "up",
+			"down": "down",
+			"left": "left",
+			"right": "right"
+		},
+		"movement2d": {
+			"upMax": -0.5,
+			"downMax": 0.5,
+			"leftMax": -0.5,
+			"rightMax": 0.5,
+			"upAccel": -0.02,
+			"downAccel": 0.02,
+			"leftAccel": -0.02,
+			"rightAccel": 0.02
+		},
+		"friction": {
+			"x": 0.97,
+			"y": 0.97
+		},
+		"image": {
+			"name": "player"
+		}
+	}, {
+		"id": 3,
+		"name": "background",
+		"background": true,
+		"position": {
+			"x": -150,
+			"y": -100
+		},
+		"size": {
+			"width": 3953,
+			"height": 1358
+		},
+		"image": {
+			"name": "background"
+		}
+	}
+]
+}

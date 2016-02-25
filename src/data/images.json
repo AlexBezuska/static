@@ -1,0 +1,11 @@
+{
+	"background": "images/background.png",
+	"bush": "images/bush.png",
+	"lamp-post": "images/lamp-post.png",
+	"manhole-cover": "images/manhole-cover.png",
+	"player": "images/player.png",
+	"trash-bag": "images/trash-bag.png",
+	"trash-bin": "images/trash-bin.png",
+	"manhole-steam-f8": "images/manhole-steam-f8.png",
+	"manhole-steam-2-f10": "images/manhole-steam-2-f10.png"
+}

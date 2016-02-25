@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 2" itemID="56c22b5e-00000281" symbolType="graphic" lastModified="1455565662">
+  <timeline>
+    <DOMTimeline name="Tween 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="cloth 1" selected="true" centerPoint3DX="36.55" centerPoint3DY="-78.8">
+                  <matrix>
+                    <Matrix a="-11.7658386230469" d="13.3609313964844" tx="754.05" ty="-1085"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.1" y="75.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 2" selected="true" centerPoint3DX="589.4" centerPoint3DY="0.85">
+                  <matrix>
+                    <Matrix a="-3.06980895996094" b="-0.0203857421875" d="5.23905944824219" tx="981.15" ty="-715"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.95" y="137.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 2" selected="true" centerPoint3DX="1450.25" centerPoint3DY="9.55">
+                  <matrix>
+                    <Matrix a="-4.456787109375" b="-0.02960205078125" d="5.54850769042969" tx="2019.45" ty="-747.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.95" y="137.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 1" selected="true" centerPoint3DX="2436.25" centerPoint3DY="12.4">
+                  <matrix>
+                    <Matrix a="21.0172271728516" d="18.4391479492188" tx="1150.7" ty="-1375.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.1" y="75.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 2" selected="true" centerPoint3DX="180.95" centerPoint3DY="69.95">
+                  <matrix>
+                    <Matrix a="-6.1990966796875" d="8.11279296875" tx="973.2" ty="-1042.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.9" y="137.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 1" selected="true" centerPoint3DX="-1463.65" centerPoint3DY="-13.45">
+                  <matrix>
+                    <Matrix a="-19.2069549560547" d="18.4067535400391" tx="-291.85" ty="-1399.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.1" y="75.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 1" selected="true" centerPoint3DX="-2630.75" centerPoint3DY="221.9">
+                  <matrix>
+                    <Matrix a="13.3317260742188" d="15.6228485107422" tx="-3446.6" ty="-954.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.1" y="75.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 2" selected="true" centerPoint3DX="1146.15" centerPoint3DY="119.4">
+                  <matrix>
+                    <Matrix a="8.11279296875" d="8.11279296875" tx="107.35" ty="-993"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="127.95" y="137.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="cloth 1" selected="true" centerPoint3DX="-2999.15" centerPoint3DY="60.3">
+                  <matrix>
+                    <Matrix a="-11.7658386230469" d="13.3609313964844" tx="-2281.65" ty="-945.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.1" y="75.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

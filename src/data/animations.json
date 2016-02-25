@@ -1,0 +1,28 @@
+{
+	"manhole-steam-f8": [{
+		"filmstripFrames": 8,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "manhole-steam-f8",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 768,
+				"sourceHeight": 152
+			}
+		}
+	}],
+	"manhole-steam-2-f10": [{
+		"filmstripFrames": 10,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "manhole-steam-2-f10",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 390,
+				"sourceHeight": 112
+			}
+		}
+	}]
+}
